@@ -1,6 +1,17 @@
 {
-  "exportDate": "2025-09-16T15:03:41.019Z",
+  "exportDate": "2025-09-16T16:27:16.185Z",
   "books": {
+    "4049135973": {
+      "title": "よつばと！（１５）",
+      "authors": "あずまきよひこ",
+      "acquiredTime": 1610841600000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4049135973.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758039687085,
+      "memo": "Amazonで紙注文",
+      "rating": 0
+    },
     "B0CZ4MQPS6": {
       "title": "組織をダメにするのは誰か？職場の問題解決入門",
       "authors": "岸良裕司",
@@ -3069,6 +3080,28 @@
       "addedDate": 1757980267556,
       "memo": "",
       "rating": 0
+    },
+    "404916194X": {
+      "title": "よつばと！（１６）",
+      "authors": "あずまきよひこ",
+      "acquiredTime": 1740614400000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/404916194X.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758039381965,
+      "memo": "コンビニで紙購入",
+      "rating": 0
+    },
+    "B07CF3TM8V": {
+      "title": "【Amazon.co.jp限定】 「よつばと!」1-14巻セット【ダンボーBOX ver.3.0】",
+      "authors": "あずまきよひこ",
+      "acquiredTime": 1525046400000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B07CF3TM8V.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758039883437,
+      "memo": "ダンボーに収まらなくなったらどうしたらいいんだろうか。",
+      "rating": 0
     }
   },
   "bookshelves": [
@@ -3079,9 +3112,87 @@
       "description": "",
       "books": [
         "B0FNW6L9R5",
-        "B0FHYR6VMF"
+        "B0FHYR6VMF",
+        "B0FJF4JHL5",
+        "B0DXZ5X7DN",
+        "B0DVBXY1P3",
+        "B0DLFSGHW6",
+        "B0DLF244XT",
+        "B0D9N9VBPC",
+        "B0DF6SLBMS",
+        "B0D2DKD978",
+        "B0DBH7P1Y8",
+        "B0DB7HHR4S",
+        "B0FB8NK5XJ",
+        "B0CFG1NFTV",
+        "B0CZ99QMWZ",
+        "B0CP5QV85L",
+        "B01HYTX7DQ",
+        "B01N47Q830",
+        "B01LQ9M9UW",
+        "B0CQNYZ968",
+        "B0CGJ66Q8Z",
+        "B089SNF6PZ",
+        "B08XVWVWNQ",
+        "B0BM94H6CS",
+        "B0CHYM4MKQ",
+        "B08H1H46F5",
+        "B0B7RZWMGV",
+        "B08TZNMVJ6",
+        "B08V111MRM",
+        "B0925VYW1R",
+        "B093P8NPQY",
+        "B093R3NH92",
+        "B093L12XJL",
+        "B095YB839S",
+        "B09BNY33YL",
+        "B09DK7S26S",
+        "B09KZ7KGWF",
+        "B09MLVSRV9",
+        "B09MVST5B6",
+        "B0BKSK32N3",
+        "B0C696347Q",
+        "B0CCYGVQ18",
+        "B0CFQ9JLJ2",
+        "B0C6D72JNJ",
+        "B0BT4Q216D",
+        "B0BNGYK4WM",
+        "B0BXFG7ZYR",
+        "B0BR279RKQ",
+        "B0BWK7XH4B",
+        "B0B55T6GHH",
+        "B0B2JV7HSH",
+        "B09TKWS2Y6",
+        "404916194X",
+        "4049135973",
+        "B07CF3TM8V"
       ],
       "createdAt": "2025-09-15T23:51:57.769Z"
+    },
+    {
+      "id": "bookshelf_1758037412538",
+      "name": "アジャイル",
+      "emoji": "📚",
+      "description": "",
+      "books": [
+        "B09KLF9G2F",
+        "B0B1MCJVW1",
+        "B098B4NLFJ",
+        "B0814STTHV",
+        "B0CC9CQDK7"
+      ],
+      "createdAt": "2025-09-16T15:43:32.538Z"
+    },
+    {
+      "id": "bookshelf_1758037493097",
+      "name": "TOC",
+      "emoji": "📚",
+      "description": "",
+      "books": [
+        "B0CZ4MQPS6",
+        "B0BT1PSBX5"
+      ],
+      "createdAt": "2025-09-16T15:44:53.097Z"
     }
   ],
   "settings": {
@@ -3095,8 +3206,8 @@
   },
   "bookOrder": {},
   "stats": {
-    "totalBooks": 279,
-    "notesCount": 0
+    "totalBooks": 282,
+    "notesCount": 3
   },
   "version": "2.0"
 }
