@@ -1,6 +1,28 @@
 {
-  "exportDate": "2025-09-16T17:17:39.009Z",
+  "exportDate": "2025-09-17T14:26:11.937Z",
   "books": {
+    "1862056919": {
+      "title": "The Phantom Of The Opera Companion",
+      "authors": "Andrew Lloyd Webber",
+      "acquiredTime": 1722124800000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/1862056919.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758116395469,
+      "memo": "screen play。イギリスから輸入。英語のセリフと字幕がわかる。",
+      "rating": 5
+    },
+    "4041125685": {
+      "title": "13歳からの経営の教科書 「ビジネス」と「生き抜く力」を学べる青春物語",
+      "authors": "岩尾 俊兵",
+      "acquiredTime": 1658707200000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4041125685.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758111808162,
+      "memo": "岩尾先生にサイン書いてもらった",
+      "rating": 5
+    },
     "4049135973": {
       "title": "よつばと！（１５）",
       "authors": "あずまきよひこ",
@@ -515,7 +537,7 @@
       "productImage": "https://m.media-amazon.com/images/I/41SKU5S+thL.jpg",
       "source": "kindle_import",
       "addedDate": 1757980267555,
-      "memo": "",
+      "memo": "デザイン態度に関する参考本",
       "rating": 0
     },
     "B0741MFD91": {
@@ -1132,7 +1154,7 @@
       "source": "kindle_import",
       "addedDate": 1757980267555,
       "memo": "",
-      "rating": 0
+      "rating": 5
     },
     "B0D2DKD978": {
       "title": "黄泉のツガイ 8巻 (デジタル版ガンガンコミックス)",
@@ -1143,7 +1165,7 @@
       "source": "kindle_import",
       "addedDate": 1757980267555,
       "memo": "",
-      "rating": 0
+      "rating": 5
     },
     "B0D4KLMQ54": {
       "title": "AI時代の質問力 プロンプトリテラシー 「問い」と「指示」が生成AIの可能性を最大限に引き出す",
@@ -1781,7 +1803,7 @@
       "source": "kindle_import",
       "addedDate": 1757980267555,
       "memo": "",
-      "rating": 0
+      "rating": 5
     },
     "B0CSPCJG33": {
       "title": "データ と デザイン　人とデータのつなぎかた",
@@ -2726,8 +2748,8 @@
       "productImage": "https://m.media-amazon.com/images/I/51Ie2biwyDL.jpg",
       "source": "kindle_import",
       "addedDate": 1757980267556,
-      "memo": "",
-      "rating": 0
+      "memo": "スライドマスターに言及しているおそらく唯一の本",
+      "rating": 5
     },
     "B09DK7S26S": {
       "title": "呪術廻戦 17 (ジャンプコミックスDIGITAL)",
@@ -3080,6 +3102,391 @@
       "addedDate": 1758039883437,
       "memo": "ダンボーに収まらなくなったらどうしたらいいんだろうか。",
       "rating": 5
+    },
+    "476780521X": {
+      "title": "テレンス・コンランの収納術",
+      "authors": "テレンス・コンラン",
+      "acquiredTime": 1745539200000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/476780521X.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758108453511,
+      "memo": "紙・楽天ブックスで購入",
+      "rating": 0
+    },
+    "B0F3N6CF93": {
+      "title": "デザインノート Premium　前田高志の全仕事 デザインの攻略本：最新デザインの表現と思考のプロセスを追う",
+      "authors": "デザインノート編集部",
+      "acquiredTime": 1745539200000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B0F3N6CF93.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758108898887,
+      "memo": "紙・楽天ブックスで購入",
+      "rating": 0
+    },
+    "4416524331": {
+      "title": "デザインノート Premium 今さら聞けない デザインのきほん: 最新デザインの表現と思考のプロセスを追う",
+      "authors": "デザインノート編集部",
+      "acquiredTime": 1745539200000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4416524331.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758110916864,
+      "memo": "紙・楽天ブックスで購入",
+      "rating": 0
+    },
+    "4522440987": {
+      "title": "書いて覚えて強くなる！　麻雀点数計算　魔法のドリル",
+      "authors": "伊達朱里紗",
+      "acquiredTime": 1690675200000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4522440987.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758111120244,
+      "memo": "紙・楽天ブックスで購入",
+      "rating": 0
+    },
+    "4830951583": {
+      "title": "創造する経営学（経営学史叢書 第Ⅱ期 第7巻 創造性）",
+      "authors": "経営学史学会",
+      "acquiredTime": 1681084800000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4830951583.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758111295682,
+      "memo": "紙のみ。宇田川先生が寄稿してるとのことで購入",
+      "rating": 0
+    },
+    "B0B68VMJVZ": {
+      "title": "組織を芯からアジャイルにする",
+      "authors": "市谷 聡啓",
+      "acquiredTime": 1658707200000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B0B68VMJVZ.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758111556037,
+      "memo": "",
+      "rating": 5
+    },
+    "4791773810": {
+      "title": "ことば: 僕自身の訓練のためのノート",
+      "authors": "山口 一郎",
+      "acquiredTime": 1669939200000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4791773810.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758112044349,
+      "memo": "FC限定版を所有",
+      "rating": 5
+    },
+    "4791776259": {
+      "title": "ことば２: 僕自身の訓練のためのノート",
+      "authors": "山口 一郎",
+      "acquiredTime": 1712707200000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4791776259.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758112343961,
+      "memo": "FC限定特装版を所持",
+      "rating": 5
+    },
+    "B09P9V2DRF": {
+      "title": "デジタルトランスフォーメーション・ジャーニー 組織のデジタル化から、分断を乗り越えて組織変革にたどりつくまで",
+      "authors": "市谷 聡啓",
+      "acquiredTime": 1643500800000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B09P9V2DRF.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758112626956,
+      "memo": "紙・楽天ブックスで購入",
+      "rating": 5
+    },
+    "4835643925": {
+      "title": "ぴあMUSIC COMPLEX(PMC) Vol.22",
+      "authors": "ぴあムック",
+      "acquiredTime": 1646870400000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4835643925.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758112885411,
+      "memo": "",
+      "rating": 0
+    },
+    "B07ZH4QG18": {
+      "title": "行動経済学まんが　ヘンテコノミクス",
+      "authors": "菅俊一, 高橋秀明, 佐藤雅彦",
+      "acquiredTime": 1524182400000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B07ZH4QG18.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758113123843,
+      "memo": "紙・楽天ブックスで購入。名著。",
+      "rating": 5
+    },
+    "4909242015": {
+      "title": "観察の練習",
+      "authors": "菅 俊一",
+      "acquiredTime": 1524355200000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4909242015.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758113439127,
+      "memo": "紙・楽天ブックスで購入。名著。",
+      "rating": 5
+    },
+    "B012VJNW6Q": {
+      "title": "なるほどデザイン",
+      "authors": "筒井 美希",
+      "acquiredTime": 1442448000000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B012VJNW6Q.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758113623624,
+      "memo": "書店購入",
+      "rating": 0
+    },
+    "4788514346": {
+      "title": "誰のためのデザイン？　増補・改訂版　―認知科学者のデザイン原論",
+      "authors": "D. A. ノーマン",
+      "acquiredTime": 1506729600000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4788514346.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758114064624,
+      "memo": "紙・楽天ブックス。バイブル。",
+      "rating": 5
+    },
+    "4860638344": {
+      "title": "頑張らない英会話フレーズ",
+      "authors": "西澤 ロイ",
+      "acquiredTime": 1451520000000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4860638344.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758114426147,
+      "memo": "",
+      "rating": 0
+    },
+    "B01DDZ0J54": {
+      "title": "CREATIVE HOTEL & COMMUNICATION SPACE",
+      "authors": "商店建築社",
+      "acquiredTime": 1461456000000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B01DDZ0J54.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758114631412,
+      "memo": "紙・楽天ブックスで購入。UDSが手がける建物の本。",
+      "rating": 5
+    },
+    "4883356019": {
+      "title": "WHAT IS DESIGN? デザインの見方 ～トップクリエイター50人の視点と原点～",
+      "authors": "ブレーン編集部",
+      "acquiredTime": 1754956800000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4883356019.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758114920454,
+      "memo": "Amazon・紙で購入",
+      "rating": 0
+    },
+    "4295207535": {
+      "title": "3分でよくなるデザイン　25年の“気づき”が詰まったブラッシュアップ集",
+      "authors": "前田 高志",
+      "acquiredTime": 1746662400000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4295207535.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758115141020,
+      "memo": "Amazon・紙で購入",
+      "rating": 0
+    },
+    "4479306609": {
+      "title": "子どもに教えてあげられる 散歩の草花図鑑 (ビジュアルだいわ文庫)",
+      "authors": "岩槻 秀明",
+      "acquiredTime": 1743638400000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4479306609.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758115441575,
+      "memo": "",
+      "rating": 0
+    },
+    "4757142323": {
+      "title": "暴力と社会秩序:制度の歴史学のために",
+      "authors": "ダグラス・C・ノース",
+      "acquiredTime": 1739577600000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4757142323.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758115705448,
+      "memo": "中古で安くても5,000円もする",
+      "rating": 0
+    },
+    "B0D143YRBP": {
+      "title": "BIG THINGS　どデカいことを成し遂げたヤツらはなにをしたのか？",
+      "authors": "ベント・フリウビヤ, ダン・ガードナー他",
+      "acquiredTime": 1735689600000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B0D143YRBP.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758115868371,
+      "memo": "",
+      "rating": 0
+    },
+    "0805017224": {
+      "title": "The Complete Phantom of the Opera",
+      "authors": "George Perry",
+      "acquiredTime": 1725321600000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/0805017224.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758116053731,
+      "memo": "輸入しました",
+      "rating": 0
+    },
+    "B0BCCVTMTP": {
+      "title": "Gerard Butler Picture Book: A Great Gift With Impressive And Attractive Illustrations Of The Most Variety Beautiful Significant Poster For Gerard Butler Fans On Any Special Occasion",
+      "authors": "著者未設定",
+      "acquiredTime": 1723852800000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B0BCCVTMTP.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758116249194,
+      "memo": "Amazonの謎の出版社から購入",
+      "rating": 5
+    },
+    "4344042980": {
+      "title": "愛されるデザイン",
+      "authors": "前田 高志",
+      "acquiredTime": 1717977600000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4344042980.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758116810196,
+      "memo": "Amazonで紙購入",
+      "rating": 0
+    },
+    "4296115928": {
+      "title": "企業変革のジレンマ 「構造的無能化」はなぜ起きるのか",
+      "authors": "宇田川元一",
+      "acquiredTime": 1717718400000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4296115928.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758117019864,
+      "memo": "Amazonで紙購入。バイブル。",
+      "rating": 5
+    },
+    "B0B4S867BB": {
+      "title": "Rake [UK] No. 82 2022",
+      "authors": "著者未設定",
+      "acquiredTime": 1658188800000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B0B4S867BB.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758117518006,
+      "memo": "輸入したけど後から日本語版出た。神本。",
+      "rating": 5
+    },
+    "4418211128": {
+      "title": "トヨタイムズmagazine 豊田章男は2020年、何を考えどうしたか?",
+      "authors": "世界文化社",
+      "acquiredTime": 1614729600000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4418211128.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758117847819,
+      "memo": "Amazonで紙購入",
+      "rating": 0
+    },
+    "4798165387": {
+      "title": "ここはウォーターフォール市、アジャイル町 ストーリーで学ぶアジャイルな組織のつくり方",
+      "authors": "沢渡 あまね, 新井 剛",
+      "acquiredTime": 1602201600000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4798165387.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758118002234,
+      "memo": "Amazonで紙購入",
+      "rating": 0
+    },
+    "4908686092": {
+      "title": "Engineers in VOYAGE ― 事業をエンジニアリングする技術者たち",
+      "authors": "和田 卓人",
+      "acquiredTime": 1600387200000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4908686092.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758118160667,
+      "memo": "初版、改訂前の方。",
+      "rating": 0
+    },
+    "4768313647": {
+      "title": "メイキング・オブ・TENET テネット クリストファー・ノーランの制作現場",
+      "authors": "James Mottram",
+      "acquiredTime": 1600387200000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4768313647.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758118303274,
+      "memo": "",
+      "rating": 5
+    },
+    "4764905906": {
+      "title": "ITサービスのためのアジャイル ―OSSを用いた開発・運用の自動化",
+      "authors": "片岡 雅憲, 小原 由紀夫, 光藤 昭男",
+      "acquiredTime": 1563321600000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4764905906.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758118478043,
+      "memo": "Amazonで紙購入。小原さんにサインもらった。",
+      "rating": 0
+    },
+    "4844332023": {
+      "title": "挑まなければ、得られない Nothing ventured, nothing gained.",
+      "authors": "及川 卓也",
+      "acquiredTime": 1499817600000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4844332023.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758118624066,
+      "memo": "Amazonで中古購入。当時紙だけで絶版だったけど今はKindle版がある。",
+      "rating": 5
+    },
+    "4798146951": {
+      "title": "プロジェクト・デザイン・パターン 企画・プロデュース・新規事業に携わる人のための企画のコツ32",
+      "authors": "井庭 崇, 梶原 文生",
+      "acquiredTime": 1463011200000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4798146951.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758118764302,
+      "memo": "当時はペーパーバック注文だったけど今はKindle版あり。",
+      "rating": 0
+    },
+    "4860637577": {
+      "title": "頑張らない基礎英語",
+      "authors": "西澤 ロイ",
+      "acquiredTime": 1424736000000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4860637577.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758118916647,
+      "memo": "Amazonで紙購入",
+      "rating": 0
+    },
+    "4860636635": {
+      "title": "頑張らない英文法",
+      "authors": "西澤 ロイ",
+      "acquiredTime": 1424736000000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4860636635.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758119062119,
+      "memo": "Amazonで紙購入",
+      "rating": 0
     }
   },
   "bookshelves": [
@@ -3172,7 +3579,26 @@
         "B01EY302KQ",
         "B00KYEH7GW",
         "B08DD7GVJ5",
-        "B074C72GJC"
+        "B074C72GJC",
+        "B01MXS1DC7",
+        "B079DHWRDX",
+        "B0C93Y8XQW",
+        "B0BGXW26S8",
+        "B09MVW2NVY",
+        "B0BH147MDJ",
+        "B09PJR7KNR",
+        "B0B5ZPW31L",
+        "B0CK625NGY",
+        "B0CGFD93XW",
+        "B0CCPJJ2P2",
+        "B0C6JMKPDW",
+        "B0C8F434RW",
+        "B0CFMCNZQG",
+        "B0BBBM6W7D",
+        "B01DOVIQX4",
+        "B079DHWV1T",
+        "B018V21LMO",
+        "B07ZH4QG18"
       ],
       "createdAt": "2025-09-15T23:51:57.769Z"
     },
@@ -3194,7 +3620,16 @@
         "B09MS8BML8",
         "B0CYQLXRQ2",
         "B0CBR9GYF6",
-        "B01NCJVL06"
+        "B01NCJVL06",
+        "B0DDSFQGTF",
+        "B00IR1HYGW",
+        "B012UWOLOQ",
+        "B08W52R8LD",
+        "B0B68VMJVZ",
+        "B09P9V2DRF",
+        "4798165387",
+        "4908686092",
+        "4764905906"
       ],
       "createdAt": "2025-09-16T15:43:32.538Z"
     },
@@ -3259,7 +3694,14 @@
         "B0868TG9WC",
         "B07Q5T1VDV",
         "B0876JVP2Z",
-        "B0C27HY8Y7"
+        "B0C27HY8Y7",
+        "4860638344",
+        "1862056919",
+        "B077L8QYNP",
+        "0805017224",
+        "B0B4S867BB",
+        "4860637577",
+        "4860636635"
       ],
       "createdAt": "2025-09-16T16:57:14.958Z"
     },
@@ -3282,7 +3724,10 @@
         "B08V1LZ2QH",
         "B0CBR9GYF6",
         "B0CS3M574M",
-        "B01NCJVL06"
+        "B01NCJVL06",
+        "B08W52R8LD",
+        "4041125685",
+        "4296115928"
       ],
       "createdAt": "2025-09-16T17:03:42.085Z"
     },
@@ -3297,9 +3742,147 @@
         "B0DFW57CGY",
         "B0CVK5KMBC",
         "B0C9L3DH5S",
-        "B0CM2YJ34N"
+        "B0CM2YJ34N",
+        "B0D4KLMQ54"
       ],
       "createdAt": "2025-09-16T17:03:55.218Z"
+    },
+    {
+      "id": "bookshelf_1758108572987",
+      "name": "デザイン",
+      "emoji": "📚",
+      "description": "",
+      "books": [
+        "B0F3N6CF93",
+        "B0C4NW3S2Y",
+        "B0DQL1D7ZK",
+        "B09MT6CBKJ",
+        "B0BS61CGSR",
+        "B0F9W8RK4D",
+        "B0DG54W48R",
+        "B0BZVPMC5Z",
+        "B0DDSFQGTF",
+        "B0CVLGNBRY",
+        "B09QGHH7ZW",
+        "B01M721DIP",
+        "B0BDRNXV5S",
+        "B0978NM6KL",
+        "B0D4SXKF3H",
+        "B0CW1C276V",
+        "B0CW1KB49Y",
+        "B07YZ6NQ4J",
+        "B07Y9VJ1SV",
+        "B0CVWZVF7X",
+        "B0B5GSBBQ5",
+        "B09GF44C1Z",
+        "B098NBGZ8L",
+        "4416524331",
+        "B07ZH4QG18",
+        "B012VJNW6Q",
+        "4788514346",
+        "4883356019",
+        "4295207535",
+        "B006W09GS4",
+        "4344042980"
+      ],
+      "createdAt": "2025-09-17T11:29:32.987Z"
+    },
+    {
+      "id": "bookshelf_1758108580180",
+      "name": "スライド",
+      "emoji": "📚",
+      "description": "",
+      "books": [
+        "B0D228JM81",
+        "B0BSPSP139",
+        "B09JRWMY9G",
+        "B09J1B7VT6",
+        "B0CXSB72M5"
+      ],
+      "createdAt": "2025-09-17T11:29:40.180Z"
+    },
+    {
+      "id": "bookshelf_1758108592374",
+      "name": "麻雀",
+      "emoji": "📚",
+      "description": "",
+      "books": [
+        "B0CHYM4MKQ",
+        "4522440987"
+      ],
+      "createdAt": "2025-09-17T11:29:52.374Z"
+    },
+    {
+      "id": "bookshelf_1758109012446",
+      "name": "ベルガンディ",
+      "emoji": "📚",
+      "description": "",
+      "books": [
+        "B01MYNF37V",
+        "B07KC4C219"
+      ],
+      "createdAt": "2025-09-17T11:36:52.446Z"
+    },
+    {
+      "id": "bookshelf_1758109704433",
+      "name": "マエデ",
+      "emoji": "📚",
+      "description": "",
+      "books": [
+        "B0CW1C276V",
+        "B0978NM6KL",
+        "B0F3N6CF93",
+        "B09GF44C1Z",
+        "4295207535",
+        "4344042980"
+      ],
+      "createdAt": "2025-09-17T11:48:24.433Z"
+    },
+    {
+      "id": "bookshelf_1758109711604",
+      "name": "ライティング",
+      "emoji": "📚",
+      "description": "",
+      "books": [
+        "B0BXSYF2N4",
+        "B0D7C2K7VD",
+        "B0DNWSN8TV",
+        "B0BS9F1JP2",
+        "B08W9MXH59",
+        "B07RXM2DHZ",
+        "B08QVKKKVR"
+      ],
+      "createdAt": "2025-09-17T11:48:31.604Z"
+    },
+    {
+      "id": "bookshelf_1758110423422",
+      "name": "UI,UX",
+      "emoji": "📚",
+      "description": "",
+      "books": [
+        "B0F17VZ5ML",
+        "B019LLD7LM",
+        "B081GJLP13",
+        "B0D4Z4K8TV",
+        "B09QGHH7ZW",
+        "B097GQXXGK",
+        "B098NBGZ8L",
+        "B08QVKKKVR",
+        "4788514346"
+      ],
+      "createdAt": "2025-09-17T12:00:23.422Z"
+    },
+    {
+      "id": "bookshelf_1758111953089",
+      "name": "新宝島おじさん",
+      "emoji": "📚",
+      "description": "",
+      "books": [
+        "4791773810",
+        "4791776259",
+        "4835643925"
+      ],
+      "createdAt": "2025-09-17T12:25:53.090Z"
     }
   ],
   "settings": {
@@ -3307,14 +3890,14 @@
     "showHighlights": true,
     "currentBookshelf": "all",
     "theme": "light",
-    "booksPerPage": "200",
+    "booksPerPage": "100",
     "showImagesInOverview": true,
     "coverSize": "small"
   },
   "bookOrder": {},
   "stats": {
-    "totalBooks": 280,
-    "notesCount": 59
+    "totalBooks": 317,
+    "notesCount": 98
   },
   "version": "2.0"
 }
