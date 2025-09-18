@@ -1,5 +1,5 @@
 {
-  "exportDate": "2025-09-17T14:26:11.937Z",
+  "exportDate": "2025-09-18T14:14:29.793Z",
   "books": {
     "1862056919": {
       "title": "The Phantom Of The Opera Companion",
@@ -427,7 +427,7 @@
       "productImage": "https://m.media-amazon.com/images/I/51P+S9Xyu5L.jpg",
       "source": "kindle_import",
       "addedDate": 1757980267555,
-      "memo": "",
+      "memo": "宇田川先生とオリザさんが対談されていたので購入",
       "rating": 0
     },
     "B0D7C2K7VD": {
@@ -1670,7 +1670,7 @@
       "productImage": "https://m.media-amazon.com/images/I/41SU+O8-kbL.jpg",
       "source": "kindle_import",
       "addedDate": 1757980267555,
-      "memo": "",
+      "memo": "タッキーが買ったとツイートしていたので自分もポチった",
       "rating": 0
     },
     "B07T9J9RWD": {
@@ -2440,7 +2440,7 @@
       "productImage": "https://m.media-amazon.com/images/I/41w10Z1ERKL.jpg",
       "source": "kindle_import",
       "addedDate": 1757980267555,
-      "memo": "",
+      "memo": "荘子を勧められたのでひとまずこれを。ソニックガーデンの倉貫さんも荘子読んだって言ってた。",
       "rating": 0
     },
     "B0BRYWJTKW": {
@@ -2704,7 +2704,7 @@
       "productImage": "https://m.media-amazon.com/images/I/51GHZv-Hr6L.jpg",
       "source": "kindle_import",
       "addedDate": 1757980267556,
-      "memo": "",
+      "memo": "NHKでコシノジュンコと対談されてるのを見てとても面白かったので購入",
       "rating": 0
     },
     "B00IR1HYGW": {
@@ -3265,7 +3265,7 @@
       "productImage": "https://images-na.ssl-images-amazon.com/images/P/4860638344.01.L.jpg",
       "source": "manual_add",
       "addedDate": 1758114426147,
-      "memo": "",
+      "memo": "楽天ブックスで紙購入",
       "rating": 0
     },
     "B01DDZ0J54": {
@@ -3487,6 +3487,490 @@
       "addedDate": 1758119062119,
       "memo": "Amazonで紙購入",
       "rating": 0
+    },
+    "4862464483": {
+      "title": "グリッドシステム　グラフィックデザインのために",
+      "authors": "ヨゼフ ミューラー=ブロックマン",
+      "acquiredTime": 1750809600000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4862464483.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758193999972,
+      "memo": "Value Booksで中古で美品ゲットしたのだが再販されてるっぽい？",
+      "rating": 0
+    },
+    "B0DSPRHNGT": {
+      "title": "超軽工業へ　インタラクションデザインを超えて",
+      "authors": "渡邊恵太",
+      "acquiredTime": 1745539200000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B0DSPRHNGT.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758194221713,
+      "memo": "Value Booksで美品GET",
+      "rating": 0
+    },
+    "475624940X": {
+      "title": "素材を使わないデザインのヒント",
+      "authors": "パイ インターナショナル",
+      "acquiredTime": 1736553600000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/475624940X.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758194469612,
+      "memo": "中古しかなくて10000円払ったのに今じゃ4000円払えば買える状況になってるのか。。",
+      "rating": 0
+    },
+    "4893096575": {
+      "title": "へいわとせんそう",
+      "authors": "谷川 俊太郎",
+      "acquiredTime": 1734825600000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4893096575.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758194736163,
+      "memo": "",
+      "rating": 0
+    },
+    "4873119464": {
+      "title": "ユニコーン企業のひみつ ―Spotifyで学んだソフトウェアづくりと働き方",
+      "authors": "Jonathan Rasmusson",
+      "acquiredTime": 1625875200000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4873119464.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758194904836,
+      "memo": "アジャイルサムライの著者の本。",
+      "rating": 0
+    },
+    "4798129704": {
+      "title": "アジャイル開発とスクラム~顧客・技術・経営をつなぐ協調的ソフトウェア開発マネジメント",
+      "authors": "平鍋 健児, 野中 郁次郎",
+      "acquiredTime": 1568073600000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4798129704.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758195076925,
+      "memo": "金春湯のオーナーさんがお店に置いてた本を手放すというので買わせていただいた中の１冊。",
+      "rating": 0
+    },
+    "B08WHYZ6CK": {
+      "title": "アジャイル開発とスクラム 第2版 顧客・技術・経営をつなぐ協調的ソフトウェア開発マネジメント",
+      "authors": "平鍋 健児, 野中 郁次郎, 及部 敬雄",
+      "acquiredTime": 1624579200000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B08WHYZ6CK.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758195201322,
+      "memo": "収録会社が刷新されて及部さんが参加してる第二版",
+      "rating": 0
+    },
+    "B073VDYX9J": {
+      "title": "突破するデザイン",
+      "authors": "ロベルト・ベルガンティ",
+      "acquiredTime": 1574640000000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B073VDYX9J.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758195456183,
+      "memo": "",
+      "rating": 0
+    },
+    "B00F4QOMWM": {
+      "title": "熊とワルツを　リスクを愉しむプロジェクト管理",
+      "authors": "トム デマルコ, ティモシー リスター",
+      "acquiredTime": 1573516800000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B00F4QOMWM.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758195925775,
+      "memo": "",
+      "rating": 0
+    },
+    "4822281116": {
+      "title": "ゆとりの法則 － 誰も書かなかったプロジェクト管理の誤解",
+      "authors": "トム・デマルコ",
+      "acquiredTime": 1509148800000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4822281116.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758196199659,
+      "memo": "",
+      "rating": 0
+    },
+    "B00I96CJWO": {
+      "title": "ピープルウエア　第3版",
+      "authors": "トム・デマルコ, ティモシー・リスター",
+      "acquiredTime": 1573344000000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B00I96CJWO.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758196627446,
+      "memo": "",
+      "rating": 0
+    },
+    "B01DW4YT6G": {
+      "title": "なぜ部下とうまくいかないのか　「自他変革」の発達心理学",
+      "authors": "加藤 洋平",
+      "acquiredTime": 1557014400000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B01DW4YT6G.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758196775526,
+      "memo": "",
+      "rating": 0
+    },
+    "B07SGCH8R6": {
+      "title": "正しいものを正しくつくる　プロダクトをつくるとはどういうことなのか、あるいはアジャイルのその先について",
+      "authors": "市谷 聡啓",
+      "acquiredTime": 1560556800000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B07SGCH8R6.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758196894180,
+      "memo": "",
+      "rating": 0
+    },
+    "B078HZKLMB": {
+      "title": "カイゼン・ジャーニー たった1人からはじめて、「越境」するチームをつくるまで",
+      "authors": "市谷 聡啓",
+      "acquiredTime": 1557446400000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B078HZKLMB.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758196973338,
+      "memo": "バイブル",
+      "rating": 5
+    },
+    "B0836CF21D": {
+      "title": "チーム・ジャーニー 逆境を越える、変化に強いチームをつくりあげるまで",
+      "authors": "市谷 聡啓",
+      "acquiredTime": 1581984000000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B0836CF21D.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758197039305,
+      "memo": "デブサミの時に買って市谷さんにサインもらった。バイブル",
+      "rating": 5
+    },
+    "B088YGLSRJ": {
+      "title": "いちばんやさしいアジャイル開発の教本　人気講師が教えるDXを支える開発手法 「いちばんやさしい教本」シリーズ",
+      "authors": "市谷聡啓, 新井剛, 小田中育生",
+      "acquiredTime": 1588291200000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B088YGLSRJ.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758197223156,
+      "memo": "書店購入の現在PDF所有。",
+      "rating": 4
+    },
+    "B00MRRF3K6": {
+      "title": "なぜ人と組織は変われないのか ― ハーバード流 自己変革の理論と実践",
+      "authors": "ロバート・キーガン, リサ・ラスコウ・レイヒー",
+      "acquiredTime": 1556582400000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B00MRRF3K6.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758197401835,
+      "memo": "",
+      "rating": 0
+    },
+    "B00J1XKB6K": {
+      "title": "アジャイルサムライ――達人開発者への道",
+      "authors": "Jonathan Rasmusson",
+      "acquiredTime": 1555286400000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B00J1XKB6K.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758197555717,
+      "memo": "原著の時点で多分テンションが高いんだろうな。翻訳のテンションが高くて読了できていない。。",
+      "rating": 0
+    },
+    "B07YNJSCG8": {
+      "title": "ソフトウェア・ファースト",
+      "authors": "及川 卓也",
+      "acquiredTime": 1571961600000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B07YNJSCG8.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758197717139,
+      "memo": "",
+      "rating": 0
+    },
+    "B079TLW41L": {
+      "title": "エンジニアリング組織論への招待　～不確実性に向き合う思考と組織のリファクタリング",
+      "authors": "広木 大地",
+      "acquiredTime": 1571961600000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B079TLW41L.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758197863113,
+      "memo": "",
+      "rating": 0
+    },
+    "4873118867": {
+      "title": "レガシーコードからの脱却 ―ソフトウェアの寿命を延ばし価値を高める9つのプラクティス",
+      "authors": "David Scott Bernstein",
+      "acquiredTime": 1571961600000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4873118867.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758198003847,
+      "memo": "",
+      "rating": 0
+    },
+    "B00P7C2D2O": {
+      "title": "夜と霧 新版",
+      "authors": "ヴィクトル・E．フランクル",
+      "acquiredTime": 1568505600000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B00P7C2D2O.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758198135516,
+      "memo": "",
+      "rating": 0
+    },
+    "B07W3TQ4RB": {
+      "title": "岩田さん: 岩田聡はこんなことを話していた。",
+      "authors": "ほぼ日刊イトイ新聞",
+      "acquiredTime": 1566691200000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B07W3TQ4RB.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758198309484,
+      "memo": "",
+      "rating": 0
+    },
+    "B0DPM448C1": {
+      "title": "デザインにできないこと",
+      "authors": "Silvio Lorusso",
+      "acquiredTime": 1732579200000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B0DPM448C1.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758198544289,
+      "memo": "",
+      "rating": 0
+    },
+    "B073GSDBGT": {
+      "title": "現場で役立つシステム設計の原則 〜変更を楽で安全にするオブジェクト指向の実践技法",
+      "authors": "増田 亨",
+      "acquiredTime": 1725926400000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B073GSDBGT.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758198720716,
+      "memo": "",
+      "rating": 0
+    },
+    "4480017186": {
+      "title": "社会問題とは何か: なぜ、どのように生じ、なくなるのか?",
+      "authors": "ジョエル・ベスト",
+      "acquiredTime": 1725926400000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4480017186.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758199136655,
+      "memo": "",
+      "rating": 0
+    },
+    "4830943807": {
+      "title": "センスメーキング イン オーガニゼーションズ",
+      "authors": "カール・E. ワイク",
+      "acquiredTime": 1642204800000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4830943807.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758199996788,
+      "memo": "",
+      "rating": 0
+    },
+    "4830942533": {
+      "title": "組織化の社会心理学",
+      "authors": "カール・E. ワイク",
+      "acquiredTime": 1641340800000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4830942533.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758200074740,
+      "memo": "",
+      "rating": 0
+    },
+    "B07FW35F5R": {
+      "title": "けっきょく、よはく。余白を活かしたデザインレイアウトの本",
+      "authors": "ingectar-e",
+      "acquiredTime": 1628985600000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B07FW35F5R.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758200272582,
+      "memo": "",
+      "rating": 0
+    },
+    "B08FSZDMF3": {
+      "title": "あたらしい、あしらい。あしらいに着目したデザインレイアウトの本",
+      "authors": "ingectar-e",
+      "acquiredTime": 1628985600000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B08FSZDMF3.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758200459350,
+      "memo": "",
+      "rating": 0
+    },
+    "4876873402": {
+      "title": "初代クラウン開発物語　トヨタのクルマ作りの原点を探る",
+      "authors": "桂木 洋二",
+      "acquiredTime": 1625875200000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4876873402.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758200796500,
+      "memo": "",
+      "rating": 0
+    },
+    "4873119391": {
+      "title": "スクラム実践者が知るべき97のこと",
+      "authors": "Gunther Verheyen",
+      "acquiredTime": 1619395200000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4873119391.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758201010225,
+      "memo": "",
+      "rating": 0
+    },
+    "B07VQY9LRR": {
+      "title": "デザインシンキング・プレイブック デジタル化時代のビジネス課題を今すぐ解決する",
+      "authors": "マイケル・リューリック, パトリック・リンク, ラリー・ライファー",
+      "acquiredTime": 1573344000000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B07VQY9LRR.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758201286476,
+      "memo": "",
+      "rating": 0
+    },
+    "4910063013": {
+      "title": "他者と働く──「わかりあえなさ」から始める組織論",
+      "authors": "宇田川 元一",
+      "acquiredTime": 1568937600000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4910063013.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758201410373,
+      "memo": "紙・楽天ブックスで購入。神。",
+      "rating": 5
+    },
+    "4478420408": {
+      "title": "ザ・ゴール ― 企業の究極の目的とは何か",
+      "authors": "エリヤフ・ゴールドラット",
+      "acquiredTime": 1561420800000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4478420408.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758201570045,
+      "memo": "鈍器",
+      "rating": 0
+    },
+    "4478460019": {
+      "title": "トヨタ生産方式――脱規模の経営をめざして",
+      "authors": "大野 耐一",
+      "acquiredTime": 1554854400000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4478460019.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758201890538,
+      "memo": "CD付き中古でGET",
+      "rating": 0
+    },
+    "B076MPJH78": {
+      "title": "アイデアスケッチ　アイデアを〈醸成〉するためのワークショップ実践ガイド",
+      "authors": "James Gibson, 小林 茂, 鈴木 宣也, 赤羽 亨",
+      "acquiredTime": 1547856000000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B076MPJH78.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758202148320,
+      "memo": "",
+      "rating": 0
+    },
+    "4802510284": {
+      "title": "Graphic Recorder ―議論を可視化するグラフィックレコーディングの教科書",
+      "authors": "清水 淳子",
+      "acquiredTime": 1547856000000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4802510284.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758202272249,
+      "memo": "",
+      "rating": 0
+    },
+    "4757170491": {
+      "title": "まなざしのデザイン:〈世界の見方〉を変える方法",
+      "authors": "ハナムラチカヒロ",
+      "acquiredTime": 1512259200000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4757170491.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758202631493,
+      "memo": "",
+      "rating": 0
+    },
+    "427405019X": {
+      "title": "新装版 リファクタリング―既存のコードを安全に改善する",
+      "authors": "Martin Fowler",
+      "acquiredTime": 1509321600000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/427405019X.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758202832883,
+      "memo": "",
+      "rating": 0
+    },
+    "4873115655": {
+      "title": "リーダブルコード ―より良いコードを書くためのシンプルで実践的なテクニック",
+      "authors": "Dustin Boswell, Trevor Foucher",
+      "acquiredTime": 1509321600000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4873115655.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758202945527,
+      "memo": "",
+      "rating": 0
+    },
+    "4756247156": {
+      "title": "デザインと革新",
+      "authors": "太刀川 瑛弼",
+      "acquiredTime": 1488153600000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4756247156.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758203175248,
+      "memo": "",
+      "rating": 0
+    },
+    "B06WRWT8C1": {
+      "title": "虐殺器官 アートワークス",
+      "authors": "ポストメディア編集部",
+      "acquiredTime": 1487808000000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B06WRWT8C1.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758203264353,
+      "memo": "",
+      "rating": 0
+    },
+    "B01MRWJTLH": {
+      "title": "THE RAKE JAPAN EDITION ISSUE14 (2017-01-24)",
+      "authors": "THE RAKE JAPAN（ザ・レイク・ジャパン）",
+      "acquiredTime": 1486252800000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B01MRWJTLH.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758203478892,
+      "memo": "",
+      "rating": 0
     }
   },
   "bookshelves": [
@@ -3629,7 +4113,16 @@
         "B09P9V2DRF",
         "4798165387",
         "4908686092",
-        "4764905906"
+        "4764905906",
+        "4873119464",
+        "4798129704",
+        "B08WHYZ6CK",
+        "B0836CF21D",
+        "B088YGLSRJ",
+        "B078HZKLMB",
+        "B00J1XKB6K",
+        "B07SGCH8R6",
+        "4873119391"
       ],
       "createdAt": "2025-09-16T15:43:32.538Z"
     },
@@ -3641,7 +4134,8 @@
       "books": [
         "B0CZ4MQPS6",
         "B0BT1PSBX5",
-        "B0BX2VFT58"
+        "B0BX2VFT58",
+        "4478420408"
       ],
       "createdAt": "2025-09-16T15:44:53.097Z"
     },
@@ -3665,7 +4159,8 @@
         "B01M0E9Y3Y",
         "B00F3WFFBE",
         "B086L7MHS9",
-        "B0BPRX3KCT"
+        "B0BPRX3KCT",
+        "B09KLF9G2F"
       ],
       "createdAt": "2025-09-16T16:51:42.283Z"
     },
@@ -3727,7 +4222,11 @@
         "B01NCJVL06",
         "B08W52R8LD",
         "4041125685",
-        "4296115928"
+        "4296115928",
+        "4910063013",
+        "4478420408",
+        "4478460019",
+        "B09KLF9G2F"
       ],
       "createdAt": "2025-09-16T17:03:42.085Z"
     },
@@ -3783,7 +4282,15 @@
         "4883356019",
         "4295207535",
         "B006W09GS4",
-        "4344042980"
+        "4344042980",
+        "4862464483",
+        "B0DSPRHNGT",
+        "475624940X",
+        "B0DPM448C1",
+        "B07FW35F5R",
+        "B08FSZDMF3",
+        "B07VQY9LRR",
+        "4757170491"
       ],
       "createdAt": "2025-09-17T11:29:32.987Z"
     },
@@ -3819,7 +4326,8 @@
       "description": "",
       "books": [
         "B01MYNF37V",
-        "B07KC4C219"
+        "B07KC4C219",
+        "B073VDYX9J"
       ],
       "createdAt": "2025-09-17T11:36:52.446Z"
     },
@@ -3883,6 +4391,52 @@
         "4835643925"
       ],
       "createdAt": "2025-09-17T12:25:53.090Z"
+    },
+    {
+      "id": "bookshelf_1758198775691",
+      "name": "プロダクト開発",
+      "emoji": "📚",
+      "description": "",
+      "books": [
+        "B07YNJSCG8",
+        "B07SGCH8R6",
+        "4876873402",
+        "B09KLF9G2F"
+      ],
+      "createdAt": "2025-09-18T12:32:55.691Z"
+    },
+    {
+      "id": "bookshelf_1758198783484",
+      "name": "プロジェクト",
+      "emoji": "📚",
+      "description": "",
+      "books": [
+        "4822281116",
+        "B00I96CJWO",
+        "B09KLF9G2F"
+      ],
+      "createdAt": "2025-09-18T12:33:03.484Z"
+    },
+    {
+      "id": "bookshelf_1758199206080",
+      "name": "宇田川先生関連",
+      "emoji": "📚",
+      "description": "Twitterのスペースの本読み会や大学のゼミの題材になった本など",
+      "books": [
+        "4480017186",
+        "B00APR9FJU",
+        "B00F3WFFBE",
+        "B01M0E9Y3Y",
+        "B07HFQQ51X",
+        "B0D4LZ1QXX",
+        "B0D2LTXNR3",
+        "B079DK3CZW",
+        "4830951583",
+        "4830943807",
+        "4830942533",
+        "4910063013"
+      ],
+      "createdAt": "2025-09-18T12:40:06.080Z"
     }
   ],
   "settings": {
@@ -3890,14 +4444,14 @@
     "showHighlights": true,
     "currentBookshelf": "all",
     "theme": "light",
-    "booksPerPage": "100",
+    "booksPerPage": "50",
     "showImagesInOverview": true,
     "coverSize": "small"
   },
   "bookOrder": {},
   "stats": {
-    "totalBooks": 317,
-    "notesCount": 98
+    "totalBooks": 361,
+    "notesCount": 118
   },
   "version": "2.0"
 }
