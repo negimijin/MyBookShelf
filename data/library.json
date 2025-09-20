@@ -1,5 +1,5 @@
 {
-  "exportDate": "2025-09-20T15:35:03.993Z",
+  "exportDate": "2025-09-20T15:54:47.304Z",
   "books": {
     "1862056919": {
       "title": "The Phantom Of The Opera Companion",
@@ -37,7 +37,7 @@
     "4101035415": {
       "title": "暇と退屈の倫理学",
       "authors": "國分 功一郎",
-      "acquiredTime": 1758378889533,
+      "acquiredTime": 1734825600000,
       "readStatus": "UNKNOWN",
       "productImage": "https://images-na.ssl-images-amazon.com/images/P/4101035415.01.L.jpg",
       "source": "manual_add",
@@ -48,7 +48,7 @@
     "4260024035": {
       "title": "オープンダイアローグとは何か",
       "authors": "斎藤 環",
-      "acquiredTime": 1758376557171,
+      "acquiredTime": 1731628800000,
       "readStatus": "UNKNOWN",
       "productImage": "https://images-na.ssl-images-amazon.com/images/P/4260024035.01.L.jpg",
       "source": "manual_add",
@@ -59,7 +59,7 @@
     "4260031570": {
       "title": "中動態の世界 意志と責任の考古学",
       "authors": "國分功一郎",
-      "acquiredTime": 1758378955539,
+      "acquiredTime": 1740441600000,
       "readStatus": "UNKNOWN",
       "productImage": "https://images-na.ssl-images-amazon.com/images/P/4260031570.01.L.jpg",
       "source": "manual_add",
@@ -3947,7 +3947,7 @@
       "productImage": "https://images-na.ssl-images-amazon.com/images/P/4757170491.01.L.jpg",
       "source": "manual_add",
       "addedDate": 1758202631493,
-      "memo": "",
+      "memo": "売った後しばらくして改めて書い直しました　2023−03−30",
       "rating": 0
     },
     "427405019X": {
@@ -4041,7 +4041,7 @@
     "4502295612": {
       "title": "組織行動論 (ベーシック+)",
       "authors": "開本 浩矢",
-      "acquiredTime": 1758374906468,
+      "acquiredTime": 1740441600000,
       "readStatus": "UNKNOWN",
       "productImage": "https://images-na.ssl-images-amazon.com/images/P/4502295612.01.L.jpg",
       "source": "manual_add",
@@ -4063,7 +4063,7 @@
     "4799323563": {
       "title": "現実はいつも対話から生まれる",
       "authors": "ケネス・J・ガーゲン, メアリー・ガーゲン",
-      "acquiredTime": 1758375207979,
+      "acquiredTime": 1739059200000,
       "readStatus": "UNKNOWN",
       "productImage": "https://images-na.ssl-images-amazon.com/images/P/4799323563.01.L.jpg",
       "source": "manual_add",
@@ -4074,7 +4074,7 @@
     "4774142573": {
       "title": "[改訂第2版] [入門+実践]要求を仕様化する技術・表現する技術 -仕様が書けていますか?",
       "authors": "清水 吉男",
-      "acquiredTime": 1758375569485,
+      "acquiredTime": 1731628800000,
       "readStatus": "UNKNOWN",
       "productImage": "https://images-na.ssl-images-amazon.com/images/P/4774142573.01.L.jpg",
       "source": "manual_add",
@@ -4107,7 +4107,7 @@
     "4560092990": {
       "title": "左利きの歴史：ヨーロッパ世界における迫害と称賛",
       "authors": "ピエール=ミシェル・ベルトラン",
-      "acquiredTime": 1758376388886,
+      "acquiredTime": 1742947200000,
       "readStatus": "UNKNOWN",
       "productImage": "https://images-na.ssl-images-amazon.com/images/P/4560092990.01.L.jpg",
       "source": "manual_add",
@@ -4129,7 +4129,7 @@
     "4861998948": {
       "title": "麻雀 傑作「何切る」300選",
       "authors": "G・ウザク",
-      "acquiredTime": 1758376865687,
+      "acquiredTime": 1731456000000,
       "readStatus": "UNKNOWN",
       "productImage": "https://images-na.ssl-images-amazon.com/images/P/4861998948.01.L.jpg",
       "source": "manual_add",
@@ -4140,7 +4140,7 @@
     "4801915779": {
       "title": "麻雀 だから君は負けるんです",
       "authors": "堀 慎吾",
-      "acquiredTime": 1758376981386,
+      "acquiredTime": 1731456000000,
       "readStatus": "UNKNOWN",
       "productImage": "https://images-na.ssl-images-amazon.com/images/P/4801915779.01.L.jpg",
       "source": "manual_add",
@@ -4162,7 +4162,7 @@
     "B07RL7RGRW": {
       "title": "測りすぎ――なぜパフォーマンス評価は失敗するのか？",
       "authors": "ジェリー・Z・ミュラー",
-      "acquiredTime": 1758377379603,
+      "acquiredTime": 1725926400000,
       "readStatus": "UNKNOWN",
       "productImage": "https://images-na.ssl-images-amazon.com/images/P/B07RL7RGRW.01.L.jpg",
       "source": "manual_add",
@@ -4173,7 +4173,7 @@
     "4327452327": {
       "title": "英語のしくみと訳しかた",
       "authors": "真野 泰",
-      "acquiredTime": 1758377613479,
+      "acquiredTime": 1746057600000,
       "readStatus": "UNKNOWN",
       "productImage": "https://images-na.ssl-images-amazon.com/images/P/4327452327.01.L.jpg",
       "source": "manual_add",
@@ -4184,7 +4184,7 @@
     "B07XQHPXMM": {
       "title": "文化人類学の思考法",
       "authors": "松村 圭一郎, 中川 理, 石井 美保",
-      "acquiredTime": 1758377732873,
+      "acquiredTime": 1737331200000,
       "readStatus": "UNKNOWN",
       "productImage": "https://images-na.ssl-images-amazon.com/images/P/B07XQHPXMM.01.L.jpg",
       "source": "manual_add",
@@ -4206,7 +4206,7 @@
     "4802511647": {
       "title": "コンセプトが伝わるデザインのロジック",
       "authors": "OCHABI Institute",
-      "acquiredTime": 1758378108080,
+      "acquiredTime": 1731801600000,
       "readStatus": "UNKNOWN",
       "productImage": "https://images-na.ssl-images-amazon.com/images/P/4802511647.01.L.jpg",
       "source": "manual_add",
@@ -4228,7 +4228,7 @@
     "B0DGX5GFNK": {
       "title": "スマートシティとキノコとブッダ　人間中心「ではない」デザインの思考法",
       "authors": "中西 泰人, 本江 正茂, 石川 初",
-      "acquiredTime": 1758378543085,
+      "acquiredTime": 1743811200000,
       "readStatus": "UNKNOWN",
       "productImage": "https://images-na.ssl-images-amazon.com/images/P/B0DGX5GFNK.01.L.jpg",
       "source": "manual_add",
@@ -4250,7 +4250,7 @@
     "4903241769": {
       "title": "デザイン・インスパイアード・イノベーション",
       "authors": "ジェイムス・M・アッターバック, ベンクト・アンヌ・ベダン, エドゥアルド・アルバレス, ステン・エックマン, スーザン・ウォルシュ・サンダーソン, ブルース・テッサー, ロベルト・ベルガンティ",
-      "acquiredTime": 1758379232234,
+      "acquiredTime": 1702857600000,
       "readStatus": "UNKNOWN",
       "productImage": "https://images-na.ssl-images-amazon.com/images/P/4903241769.01.L.jpg",
       "source": "manual_add",
@@ -4316,7 +4316,7 @@
     "4641165572": {
       "title": "イノベーションを生む“改善” -- 自動車工場の改善活動と全社の組織設計",
       "authors": "岩尾 俊兵",
-      "acquiredTime": 1758380973718,
+      "acquiredTime": 1744588800000,
       "readStatus": "UNKNOWN",
       "productImage": "https://images-na.ssl-images-amazon.com/images/P/4641165572.01.L.jpg",
       "source": "manual_add",
@@ -4327,7 +4327,7 @@
     "B0DR9K251P": {
       "title": "はじめてのオペレーション経営",
       "authors": "岩尾俊兵, 秋池篤, 加藤木綿美",
-      "acquiredTime": 1758381089161,
+      "acquiredTime": 1731628800000,
       "readStatus": "UNKNOWN",
       "productImage": "https://images-na.ssl-images-amazon.com/images/P/B0DR9K251P.01.L.jpg",
       "source": "manual_add",
@@ -4338,7 +4338,7 @@
     "B07WWK5KQK": {
       "title": "ザッソウ　結果を出すチームの習慣",
       "authors": "倉貫 義人",
-      "acquiredTime": 1758381200497,
+      "acquiredTime": 1566259200000,
       "readStatus": "UNKNOWN",
       "productImage": "https://images-na.ssl-images-amazon.com/images/P/B07WWK5KQK.01.L.jpg",
       "source": "manual_add",
@@ -4371,7 +4371,7 @@
     "489471275X": {
       "title": "XPエクストリーム・プログラミング入門: ソフトウェア開発の究極の手法",
       "authors": "Kent Beck",
-      "acquiredTime": 1758381860168,
+      "acquiredTime": 1667952000000,
       "readStatus": "UNKNOWN",
       "productImage": "https://images-na.ssl-images-amazon.com/images/P/489471275X.01.L.jpg",
       "source": "manual_add",
@@ -4382,7 +4382,7 @@
     "487311764X": {
       "title": "カンバン仕事術",
       "authors": "Marcus Hammarberg, Joakim Sundén",
-      "acquiredTime": 1758381971916,
+      "acquiredTime": 1690761600000,
       "readStatus": "UNKNOWN",
       "productImage": "https://images-na.ssl-images-amazon.com/images/P/487311764X.01.L.jpg",
       "source": "manual_add",
@@ -4909,7 +4909,7 @@
   "bookOrder": {},
   "stats": {
     "totalBooks": 401,
-    "notesCount": 139
+    "notesCount": 140
   },
   "version": "2.0"
 }
