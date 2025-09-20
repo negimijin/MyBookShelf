@@ -1,5 +1,5 @@
 {
-  "exportDate": "2025-09-18T14:14:29.793Z",
+  "exportDate": "2025-09-20T15:35:03.993Z",
   "books": {
     "1862056919": {
       "title": "The Phantom Of The Opera Companion",
@@ -33,6 +33,39 @@
       "addedDate": 1758039687085,
       "memo": "Amazonで紙注文",
       "rating": 5
+    },
+    "4101035415": {
+      "title": "暇と退屈の倫理学",
+      "authors": "國分 功一郎",
+      "acquiredTime": 1758378889533,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4101035415.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758378889534,
+      "memo": "",
+      "rating": 0
+    },
+    "4260024035": {
+      "title": "オープンダイアローグとは何か",
+      "authors": "斎藤 環",
+      "acquiredTime": 1758376557171,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4260024035.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758376557171,
+      "memo": "PDFに自炊済み",
+      "rating": 0
+    },
+    "4260031570": {
+      "title": "中動態の世界 意志と責任の考古学",
+      "authors": "國分功一郎",
+      "acquiredTime": 1758378955539,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4260031570.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758378955539,
+      "memo": "",
+      "rating": 0
     },
     "B0CZ4MQPS6": {
       "title": "組織をダメにするのは誰か？職場の問題解決入門",
@@ -3760,7 +3793,7 @@
       "productImage": "https://images-na.ssl-images-amazon.com/images/P/B073GSDBGT.01.L.jpg",
       "source": "manual_add",
       "addedDate": 1758198720716,
-      "memo": "",
+      "memo": "PDFに自炊済み",
       "rating": 0
     },
     "4480017186": {
@@ -3971,6 +4004,413 @@
       "addedDate": 1758203478892,
       "memo": "",
       "rating": 0
+    },
+    "B09DPL5C8P": {
+      "title": "デザイン3000",
+      "authors": "大谷 秀映, 杉江 耕平, ハラ ヒロシ, ハヤシ アキコ, 平本 久美子, ヤマダ ジュンヤ",
+      "acquiredTime": 1758371545866,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://m.media-amazon.com/images/I/51hp3iQr5yL.jpg",
+      "source": "kindle_import",
+      "addedDate": 1758374106422,
+      "memo": "",
+      "rating": 0
+    },
+    "B00F3UTIQY": {
+      "title": "リーン・スタートアップ　ムダのない起業プロセスでイノベーションを生みだす",
+      "authors": "エリック・リース",
+      "acquiredTime": 1758374287447,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B00F3UTIQY.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758374287448,
+      "memo": "書店で購入。PDFに自炊済み",
+      "rating": 0
+    },
+    "B09Y1MWK9N": {
+      "title": "良いコード/悪いコードで学ぶ設計入門 ―保守しやすい 成長し続けるコードの書き方",
+      "authors": "仙塲 大也",
+      "acquiredTime": 1651363200000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B09Y1MWK9N.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758374702886,
+      "memo": "PDF版。",
+      "rating": 0
+    },
+    "4502295612": {
+      "title": "組織行動論 (ベーシック+)",
+      "authors": "開本 浩矢",
+      "acquiredTime": 1758374906468,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4502295612.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758374906469,
+      "memo": "PDFに自炊済み",
+      "rating": 0
+    },
+    "B07DNRHDSX": {
+      "title": "研修デザインハンドブック",
+      "authors": "中村文子, ボブ・パイク",
+      "acquiredTime": 1758375065390,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B07DNRHDSX.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758375065391,
+      "memo": "PDFに自炊済み",
+      "rating": 0
+    },
+    "4799323563": {
+      "title": "現実はいつも対話から生まれる",
+      "authors": "ケネス・J・ガーゲン, メアリー・ガーゲン",
+      "acquiredTime": 1758375207979,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4799323563.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758375207979,
+      "memo": "PDFに自炊済み",
+      "rating": 0
+    },
+    "4774142573": {
+      "title": "[改訂第2版] [入門+実践]要求を仕様化する技術・表現する技術 -仕様が書けていますか?",
+      "authors": "清水 吉男",
+      "acquiredTime": 1758375569485,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4774142573.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758375569485,
+      "memo": "PDFに自炊済み",
+      "rating": 0
+    },
+    "4492534083": {
+      "title": "両利きの経営",
+      "authors": "チャールズ・A. オライリー, マイケル・L. タッシュマン",
+      "acquiredTime": 1758326400000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4492534083.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758376034200,
+      "memo": "PDFに自炊済み",
+      "rating": 0
+    },
+    "B084VLRLBQ": {
+      "title": "両利きの組織をつくる――大企業病を打破する「攻めと守りの経営」",
+      "authors": "加藤雅則, チャールズ・A・オライリー, ウリケ・シェーデ",
+      "acquiredTime": 1758376244172,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B084VLRLBQ.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758376244172,
+      "memo": "PDFに自炊済み",
+      "rating": 0
+    },
+    "4560092990": {
+      "title": "左利きの歴史：ヨーロッパ世界における迫害と称賛",
+      "authors": "ピエール=ミシェル・ベルトラン",
+      "acquiredTime": 1758376388886,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4560092990.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758376388886,
+      "memo": "PDFに自炊済み",
+      "rating": 0
+    },
+    "4814400918": {
+      "title": "Tidy First? ―個人で実践する経験主義的ソフトウェア設計",
+      "authors": "Kent Beck",
+      "acquiredTime": 1758376683263,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4814400918.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758376683263,
+      "memo": "",
+      "rating": 0
+    },
+    "4861998948": {
+      "title": "麻雀 傑作「何切る」300選",
+      "authors": "G・ウザク",
+      "acquiredTime": 1758376865687,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4861998948.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758376865687,
+      "memo": "",
+      "rating": 0
+    },
+    "4801915779": {
+      "title": "麻雀 だから君は負けるんです",
+      "authors": "堀 慎吾",
+      "acquiredTime": 1758376981386,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4801915779.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758376981387,
+      "memo": "積読にしてるから私は負けてる",
+      "rating": 0
+    },
+    "4528024225": {
+      "title": "イラスト見るだけ！Mリーガー佐々木寿人の麻雀入門",
+      "authors": "佐々木 寿人",
+      "acquiredTime": 1758377139426,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4528024225.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758377139427,
+      "memo": " Mリーグ公式ショップで寿人さんにサインしてもらった！\n\n役はMリーグ視聴とこの本で覚えました",
+      "rating": 5
+    },
+    "B07RL7RGRW": {
+      "title": "測りすぎ――なぜパフォーマンス評価は失敗するのか？",
+      "authors": "ジェリー・Z・ミュラー",
+      "acquiredTime": 1758377379603,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B07RL7RGRW.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758377379605,
+      "memo": "",
+      "rating": 0
+    },
+    "4327452327": {
+      "title": "英語のしくみと訳しかた",
+      "authors": "真野 泰",
+      "acquiredTime": 1758377613479,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4327452327.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758377613479,
+      "memo": "",
+      "rating": 0
+    },
+    "B07XQHPXMM": {
+      "title": "文化人類学の思考法",
+      "authors": "松村 圭一郎, 中川 理, 石井 美保",
+      "acquiredTime": 1758377732873,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B07XQHPXMM.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758377732874,
+      "memo": "",
+      "rating": 0
+    },
+    "B0893RK6WC": {
+      "title": "オブジェクト指向UIデザイン──使いやすいソフトウェアの原理",
+      "authors": "上野 学",
+      "acquiredTime": 1758377944607,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B0893RK6WC.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758377944607,
+      "memo": "",
+      "rating": 0
+    },
+    "4802511647": {
+      "title": "コンセプトが伝わるデザインのロジック",
+      "authors": "OCHABI Institute",
+      "acquiredTime": 1758378108080,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4802511647.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758378108080,
+      "memo": "",
+      "rating": 0
+    },
+    "4479796975": {
+      "title": "伝わるプレゼンの法則100",
+      "authors": "吉藤 智広, 渋谷 雄大",
+      "acquiredTime": 1758378290145,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4479796975.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758378290145,
+      "memo": "吉藤さん渋谷さんにサインしてもらった。バイブル。",
+      "rating": 5
+    },
+    "B0DGX5GFNK": {
+      "title": "スマートシティとキノコとブッダ　人間中心「ではない」デザインの思考法",
+      "authors": "中西 泰人, 本江 正茂, 石川 初",
+      "acquiredTime": 1758378543085,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B0DGX5GFNK.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758378543085,
+      "memo": "",
+      "rating": 0
+    },
+    "B0DXDR2N2M": {
+      "title": "アジャイルデータモデリング　組織にデータ分析を広めるためのテーブル設計ガイド",
+      "authors": "ローレンス・コル, ジム・スタグニット",
+      "acquiredTime": 1758378798241,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B0DXDR2N2M.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758378798241,
+      "memo": "",
+      "rating": 0
+    },
+    "4903241769": {
+      "title": "デザイン・インスパイアード・イノベーション",
+      "authors": "ジェイムス・M・アッターバック, ベンクト・アンヌ・ベダン, エドゥアルド・アルバレス, ステン・エックマン, スーザン・ウォルシュ・サンダーソン, ブルース・テッサー, ロベルト・ベルガンティ",
+      "acquiredTime": 1758379232234,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4903241769.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758379232234,
+      "memo": "ヴェルガンティになってるから１作目だと気づけない本",
+      "rating": 0
+    },
+    "487311909X": {
+      "title": "みんなでアジャイル ―変化に対応できる顧客中心組織のつくりかた",
+      "authors": "Matt LeMay",
+      "acquiredTime": 1602806400000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/487311909X.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758379677597,
+      "memo": "↔︎Clean Agile",
+      "rating": 0
+    },
+    "4873119251": {
+      "title": "プロダクトマネジメント ―ビルドトラップを避け顧客に価値を届ける",
+      "authors": "Melissa Perri",
+      "acquiredTime": 1603670400000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4873119251.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758379933120,
+      "memo": "",
+      "rating": 0
+    },
+    "B08KRHDS84": {
+      "title": "Clean Agile　基本に立ち戻れ",
+      "authors": "Robert C. Martin",
+      "acquiredTime": 1602806400000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B08KRHDS84.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758380501311,
+      "memo": "↔︎みんなでアジャイル",
+      "rating": 0
+    },
+    "4478106169": {
+      "title": "「ついやってしまう」体験のつくりかた 人を動かす「直感・驚き・物語」のしくみ",
+      "authors": "玉樹 真一郎",
+      "acquiredTime": 1758380802485,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4478106169.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758380802485,
+      "memo": "",
+      "rating": 0
+    },
+    "4478108595": {
+      "title": "その仕事、全部やめてみよう 1%の本質をつかむ「シンプルな考え方」",
+      "authors": "小野 和俊",
+      "acquiredTime": 1758380878369,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4478108595.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758380878370,
+      "memo": "",
+      "rating": 0
+    },
+    "4641165572": {
+      "title": "イノベーションを生む“改善” -- 自動車工場の改善活動と全社の組織設計",
+      "authors": "岩尾 俊兵",
+      "acquiredTime": 1758380973718,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4641165572.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758380973718,
+      "memo": "",
+      "rating": 0
+    },
+    "B0DR9K251P": {
+      "title": "はじめてのオペレーション経営",
+      "authors": "岩尾俊兵, 秋池篤, 加藤木綿美",
+      "acquiredTime": 1758381089161,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B0DR9K251P.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758381089161,
+      "memo": "",
+      "rating": 0
+    },
+    "B07WWK5KQK": {
+      "title": "ザッソウ　結果を出すチームの習慣",
+      "authors": "倉貫 義人",
+      "acquiredTime": 1758381200497,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B07WWK5KQK.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758381200497,
+      "memo": "倉貫さんのサイン入り。ABDで読んだ後自分用に購入。",
+      "rating": 0
+    },
+    "B07MSDRMM6": {
+      "title": "管理ゼロで成果はあがる～「見直す・なくす・やめる」で組織を変えよう",
+      "authors": "倉貫 義人",
+      "acquiredTime": 1550620800000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B07MSDRMM6.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758381302575,
+      "memo": "紙。借りパクされてる本",
+      "rating": 0
+    },
+    "B009SODO6Q": {
+      "title": "［現代語抄訳］言志四録",
+      "authors": "佐藤 一斎, 岬 龍一郎",
+      "acquiredTime": 1758326400000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B009SODO6Q.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758381686212,
+      "memo": "",
+      "rating": 0
+    },
+    "489471275X": {
+      "title": "XPエクストリーム・プログラミング入門: ソフトウェア開発の究極の手法",
+      "authors": "Kent Beck",
+      "acquiredTime": 1758381860168,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/489471275X.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758381860168,
+      "memo": "",
+      "rating": 0
+    },
+    "487311764X": {
+      "title": "カンバン仕事術",
+      "authors": "Marcus Hammarberg, Joakim Sundén",
+      "acquiredTime": 1758381971916,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/487311764X.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758381971916,
+      "memo": "オライリーのPDF購入",
+      "rating": 0
+    },
+    "B089KFKB5H": {
+      "title": "More Effective Agile “ソフトウェアリーダー”になるための28の道標",
+      "authors": "Steve McConnell",
+      "acquiredTime": 1591833600000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B089KFKB5H.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758382131114,
+      "memo": "",
+      "rating": 0
+    },
+    "4897979579": {
+      "title": "カンバン ソフトウェア開発の変革 Improving Service Delivery in Technology Business",
+      "authors": "David J. Anderson",
+      "acquiredTime": 1591747200000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4897979579.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758382223591,
+      "memo": "研修用に会社で買ってた本（使い回し）がコロナ中に社屋のフロア解約で置き場がなくなるからということでいただいたもの。今は絶版になってるので感謝。",
+      "rating": 0
     }
   },
   "bookshelves": [
@@ -4122,7 +4562,12 @@
         "B078HZKLMB",
         "B00J1XKB6K",
         "B07SGCH8R6",
-        "4873119391"
+        "4873119391",
+        "487311909X",
+        "4873119251",
+        "B08KRHDS84",
+        "487311764X",
+        "4897979579"
       ],
       "createdAt": "2025-09-16T15:43:32.538Z"
     },
@@ -4196,7 +4641,8 @@
         "0805017224",
         "B0B4S867BB",
         "4860637577",
-        "4860636635"
+        "4860636635",
+        "4327452327"
       ],
       "createdAt": "2025-09-16T16:57:14.958Z"
     },
@@ -4226,7 +4672,8 @@
         "4910063013",
         "4478420408",
         "4478460019",
-        "B09KLF9G2F"
+        "B09KLF9G2F",
+        "B07MSDRMM6"
       ],
       "createdAt": "2025-09-16T17:03:42.085Z"
     },
@@ -4290,7 +4737,9 @@
         "B07FW35F5R",
         "B08FSZDMF3",
         "B07VQY9LRR",
-        "4757170491"
+        "4757170491",
+        "B09DPL5C8P",
+        "4802511647"
       ],
       "createdAt": "2025-09-17T11:29:32.987Z"
     },
@@ -4304,7 +4753,8 @@
         "B0BSPSP139",
         "B09JRWMY9G",
         "B09J1B7VT6",
-        "B0CXSB72M5"
+        "B0CXSB72M5",
+        "4479796975"
       ],
       "createdAt": "2025-09-17T11:29:40.180Z"
     },
@@ -4315,19 +4765,23 @@
       "description": "",
       "books": [
         "B0CHYM4MKQ",
-        "4522440987"
+        "4522440987",
+        "4861998948",
+        "4801915779",
+        "4528024225"
       ],
       "createdAt": "2025-09-17T11:29:52.374Z"
     },
     {
       "id": "bookshelf_1758109012446",
-      "name": "ベルガンディ",
+      "name": "ベルガンティ関連",
       "emoji": "📚",
-      "description": "",
+      "description": "意味のイノベーション",
       "books": [
         "B01MYNF37V",
         "B07KC4C219",
-        "B073VDYX9J"
+        "B073VDYX9J",
+        "4903241769"
       ],
       "createdAt": "2025-09-17T11:36:52.446Z"
     },
@@ -4376,7 +4830,8 @@
         "B097GQXXGK",
         "B098NBGZ8L",
         "B08QVKKKVR",
-        "4788514346"
+        "4788514346",
+        "B0893RK6WC"
       ],
       "createdAt": "2025-09-17T12:00:23.422Z"
     },
@@ -4401,7 +4856,8 @@
         "B07YNJSCG8",
         "B07SGCH8R6",
         "4876873402",
-        "B09KLF9G2F"
+        "B09KLF9G2F",
+        "4873119251"
       ],
       "createdAt": "2025-09-18T12:32:55.691Z"
     },
@@ -4434,7 +4890,9 @@
         "4830951583",
         "4830943807",
         "4830942533",
-        "4910063013"
+        "4910063013",
+        "4799323563",
+        "4260024035"
       ],
       "createdAt": "2025-09-18T12:40:06.080Z"
     }
@@ -4444,14 +4902,14 @@
     "showHighlights": true,
     "currentBookshelf": "all",
     "theme": "light",
-    "booksPerPage": "50",
+    "booksPerPage": "100",
     "showImagesInOverview": true,
     "coverSize": "small"
   },
   "bookOrder": {},
   "stats": {
-    "totalBooks": 361,
-    "notesCount": 118
+    "totalBooks": 401,
+    "notesCount": 139
   },
   "version": "2.0"
 }
