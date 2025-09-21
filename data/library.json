@@ -1,5 +1,5 @@
 {
-  "exportDate": "2025-09-20T15:54:47.304Z",
+  "exportDate": "2025-09-21T11:50:02.719Z",
   "books": {
     "1862056919": {
       "title": "The Phantom Of The Opera Companion",
@@ -12,6 +12,17 @@
       "memo": "screen play。イギリスから輸入。英語のセリフと字幕がわかる。",
       "rating": 5
     },
+    "4000052446": {
+      "title": "技術の創造と設計",
+      "authors": "畑村 洋太郎",
+      "acquiredTime": 1724889600000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4000052446.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758444996568,
+      "memo": "PDFに自炊済み",
+      "rating": 0
+    },
     "4041125685": {
       "title": "13歳からの経営の教科書 「ビジネス」と「生き抜く力」を学べる青春物語",
       "authors": "岩尾 俊兵",
@@ -22,6 +33,17 @@
       "addedDate": 1758111808162,
       "memo": "岩尾先生にサイン書いてもらった",
       "rating": 5
+    },
+    "4046064714": {
+      "title": "ヒヨシの超実況 これが麻雀実況者の生きる道",
+      "authors": "日吉 辰哉",
+      "acquiredTime": 1694044800000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4046064714.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758453203695,
+      "memo": "サイン会でサインもらった",
+      "rating": 0
     },
     "4049135973": {
       "title": "よつばと！（１５）",
@@ -559,7 +581,7 @@
       "productImage": "https://m.media-amazon.com/images/I/41oOzt49-XL.jpg",
       "source": "kindle_import",
       "addedDate": 1757980267555,
-      "memo": "",
+      "memo": "ということで２版をKindleで買った",
       "rating": 0
     },
     "B006W09GS4": {
@@ -3738,7 +3760,7 @@
       "productImage": "https://images-na.ssl-images-amazon.com/images/P/B079TLW41L.01.L.jpg",
       "source": "manual_add",
       "addedDate": 1758197863113,
-      "memo": "",
+      "memo": "PDFに自炊済み",
       "rating": 0
     },
     "4873118867": {
@@ -4151,7 +4173,7 @@
     "4528024225": {
       "title": "イラスト見るだけ！Mリーガー佐々木寿人の麻雀入門",
       "authors": "佐々木 寿人",
-      "acquiredTime": 1758377139426,
+      "acquiredTime": 1694736000000,
       "readStatus": "UNKNOWN",
       "productImage": "https://images-na.ssl-images-amazon.com/images/P/4528024225.01.L.jpg",
       "source": "manual_add",
@@ -4239,7 +4261,7 @@
     "B0DXDR2N2M": {
       "title": "アジャイルデータモデリング　組織にデータ分析を広めるためのテーブル設計ガイド",
       "authors": "ローレンス・コル, ジム・スタグニット",
-      "acquiredTime": 1758378798241,
+      "acquiredTime": 1738022400000,
       "readStatus": "UNKNOWN",
       "productImage": "https://images-na.ssl-images-amazon.com/images/P/B0DXDR2N2M.01.L.jpg",
       "source": "manual_add",
@@ -4410,6 +4432,292 @@
       "source": "manual_add",
       "addedDate": 1758382223591,
       "memo": "研修用に会社で買ってた本（使い回し）がコロナ中に社屋のフロア解約で置き場がなくなるからということでいただいたもの。今は絶版になってるので感謝。",
+      "rating": 0
+    },
+    "B08FB7YJK7": {
+      "title": "カーム・テクノロジー　生活に溶け込む情報技術のデザイン",
+      "authors": "Amber Case",
+      "acquiredTime": 1640649600000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B08FB7YJK7.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758443395092,
+      "memo": "",
+      "rating": 0
+    },
+    "B09R754775": {
+      "title": "トヨタのリーダーシップレッスン",
+      "authors": "Katie Anderson",
+      "acquiredTime": 1702857600000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B09R754775.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758444479225,
+      "memo": "",
+      "rating": 0
+    },
+    "B09YXZ6P96": {
+      "title": "『失敗の本質』を語る　なぜ戦史に学ぶのか",
+      "authors": "野中 郁次郎",
+      "acquiredTime": 1702857600000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B09YXZ6P96.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758444653402,
+      "memo": "",
+      "rating": 0
+    },
+    "B087X4WJLR": {
+      "title": "良い戦略、悪い戦略",
+      "authors": "Richard P. Rumelt",
+      "acquiredTime": 1724889600000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B087X4WJLR.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758444851046,
+      "memo": "",
+      "rating": 0
+    },
+    "4910865063": {
+      "title": "坂本図書",
+      "authors": "著者未設定",
+      "acquiredTime": 1724889600000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4910865063.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758445208438,
+      "memo": "",
+      "rating": 0
+    },
+    "B0CC8H434L": {
+      "title": "デザインのミカタ　無限の「ひきだし」と「センス」を手に入れる",
+      "authors": "デザイン研究所",
+      "acquiredTime": 1731628800000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B0CC8H434L.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758445347186,
+      "memo": "",
+      "rating": 0
+    },
+    "B09XV1FHNM": {
+      "title": "OPEN（オープン）：「開く」ことができる人・組織・国家だけが生き残る",
+      "authors": "Johan Norberg",
+      "acquiredTime": 1731628800000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B09XV1FHNM.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758445683133,
+      "memo": "",
+      "rating": 0
+    },
+    "B08PKLG2C4": {
+      "title": "イメージをパッと形に変えるデザイン大全",
+      "authors": "尾沢 早飛",
+      "acquiredTime": 1733443200000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B08PKLG2C4.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758445999765,
+      "memo": "",
+      "rating": 0
+    },
+    "B08JXGR21K": {
+      "title": "伝わるデザインの授業 一生使える8つの力が身につく",
+      "authors": "武田 英志",
+      "acquiredTime": 1733443200000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B08JXGR21K.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758446323241,
+      "memo": "",
+      "rating": 0
+    },
+    "B011HON6RG": {
+      "title": "哲学入門",
+      "authors": "戸田山 和久",
+      "acquiredTime": 1733443200000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B011HON6RG.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758447084689,
+      "memo": "",
+      "rating": 0
+    },
+    "B08CTSGMLC": {
+      "title": "伝わる［図・グラフ・表］のデザインテクニック",
+      "authors": "北田 荘平, 渡邉 真洋",
+      "acquiredTime": 1733443200000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B08CTSGMLC.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758447798782,
+      "memo": "",
+      "rating": 0
+    },
+    "B077N9TCDB": {
+      "title": "麻雀 定石「何切る」301選",
+      "authors": "Ｇ・ウザク",
+      "acquiredTime": 1733443200000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B077N9TCDB.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758448384441,
+      "memo": "",
+      "rating": 0
+    },
+    "4802510241": {
+      "title": "配色の設計 ―色の知覚と相互作用",
+      "authors": "Josef Albers",
+      "acquiredTime": 1737331200000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4802510241.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758448527145,
+      "memo": "",
+      "rating": 0
+    },
+    "4990472675": {
+      "title": "GAS BOOK33 YOSHIROTTEN",
+      "authors": "YOSHIROTTEN",
+      "acquiredTime": 1739059200000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4990472675.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758448850183,
+      "memo": "",
+      "rating": 0
+    },
+    "B0DH7YFMP2": {
+      "title": "つくって、みなおす、デザインシステム——現場での合意形成から設計、運用まで",
+      "authors": "株式会社ニジボックス",
+      "acquiredTime": 1739059200000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B0DH7YFMP2.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758449222970,
+      "memo": "PDFに自炊済み",
+      "rating": 0
+    },
+    "B0DNY9Z157": {
+      "title": "プログラミング〈新〉作法　これからプログラムを書く人のために",
+      "authors": "荒木 雅弘",
+      "acquiredTime": 1740441600000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B0DNY9Z157.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758449844927,
+      "memo": "PDFに自炊済み",
+      "rating": 0
+    },
+    "B08721VWS5": {
+      "title": "ウザク式麻雀学習 牌効率",
+      "authors": "G・ウザク",
+      "acquiredTime": 1742947200000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B08721VWS5.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758450060167,
+      "memo": "",
+      "rating": 0
+    },
+    "4814400411": {
+      "title": "ルールズ・オブ・プログラミング ―より良いコードを書くための21のルール",
+      "authors": "Chris Zimmerman",
+      "acquiredTime": 1742947200000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4814400411.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758450511663,
+      "memo": "PDFに自炊済み",
+      "rating": 0
+    },
+    "4295012742": {
+      "title": "PowerPointで何でも作る! 神業パワポ",
+      "authors": "PPDTP",
+      "acquiredTime": 1717200000000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4295012742.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758450720793,
+      "memo": "",
+      "rating": 0
+    },
+    "4910218122": {
+      "title": "リック・ルービンの創作術",
+      "authors": "Rick Rubin",
+      "acquiredTime": 1745020800000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4910218122.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758451029568,
+      "memo": "",
+      "rating": 0
+    },
+    "4839966907": {
+      "title": "ウェブデザインの思考法 (Business×Design×IT)",
+      "authors": "金 成奎",
+      "acquiredTime": 1744416000000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4839966907.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758451442878,
+      "memo": "中古を買ったら初版の方だった。２版は青い。",
+      "rating": 0
+    },
+    "B01MF8C0V5": {
+      "title": "アイデアは敵の中にある",
+      "authors": "根津 孝太",
+      "acquiredTime": 1744588800000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B01MF8C0V5.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758451687751,
+      "memo": "",
+      "rating": 0
+    },
+    "4865284214": {
+      "title": "メタフィジカルデザイン -つくりながら哲学する-",
+      "authors": "瀬尾 浩二郎",
+      "acquiredTime": 1732147200000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4865284214.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758453918931,
+      "memo": "SPBSのイベントで購入してサインいただいた",
+      "rating": 0
+    },
+    "4861009936": {
+      "title": "さよなら、インタフェース -脱「画面」の思考法",
+      "authors": "ゴールデン・クリシュナ",
+      "acquiredTime": 1758454570347,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4861009936.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758454570347,
+      "memo": "",
+      "rating": 0
+    },
+    "4873118484": {
+      "title": "エンジニアのためのマネジメントキャリアパス",
+      "authors": "Camille Fournier",
+      "acquiredTime": 1550620800000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4873118484.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758455047117,
+      "memo": "PDFに自炊済み",
+      "rating": 0
+    },
+    "4873119944": {
+      "title": "エンジニアリングマネージャーのしごと ―チームが必要とするマネージャーになる方法",
+      "authors": "James Stanier",
+      "acquiredTime": 1667260800000,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4873119944.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1758455176453,
+      "memo": "PDFに自炊済み",
       "rating": 0
     }
   },
@@ -4605,7 +4913,9 @@
         "B00F3WFFBE",
         "B086L7MHS9",
         "B0BPRX3KCT",
-        "B09KLF9G2F"
+        "B09KLF9G2F",
+        "B011HON6RG",
+        "4865284214"
       ],
       "createdAt": "2025-09-16T16:51:42.283Z"
     },
@@ -4739,7 +5049,13 @@
         "B07VQY9LRR",
         "4757170491",
         "B09DPL5C8P",
-        "4802511647"
+        "4802511647",
+        "B0CC8H434L",
+        "B08PKLG2C4",
+        "B08JXGR21K",
+        "B08CTSGMLC",
+        "4802510241",
+        "B0DH7YFMP2"
       ],
       "createdAt": "2025-09-17T11:29:32.987Z"
     },
@@ -4754,7 +5070,9 @@
         "B09JRWMY9G",
         "B09J1B7VT6",
         "B0CXSB72M5",
-        "4479796975"
+        "4479796975",
+        "B08CTSGMLC",
+        "4295012742"
       ],
       "createdAt": "2025-09-17T11:29:40.180Z"
     },
@@ -4768,7 +5086,9 @@
         "4522440987",
         "4861998948",
         "4801915779",
-        "4528024225"
+        "4528024225",
+        "B077N9TCDB",
+        "B08721VWS5"
       ],
       "createdAt": "2025-09-17T11:29:52.374Z"
     },
@@ -4869,7 +5189,8 @@
       "books": [
         "4822281116",
         "B00I96CJWO",
-        "B09KLF9G2F"
+        "B09KLF9G2F",
+        "B0DH7YFMP2"
       ],
       "createdAt": "2025-09-18T12:33:03.484Z"
     },
@@ -4908,8 +5229,8 @@
   },
   "bookOrder": {},
   "stats": {
-    "totalBooks": 401,
-    "notesCount": 140
+    "totalBooks": 429,
+    "notesCount": 151
   },
   "version": "2.0"
 }
