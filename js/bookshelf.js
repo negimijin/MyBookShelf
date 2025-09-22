@@ -706,20 +706,19 @@ class VirtualBookshelf {
                             <div class="edit-field">
                                 <label>📅 購入日</label>
                                 <input type="date" class="edit-acquired-time" data-asin="${book.asin}" value="${new Date(book.acquiredTime).toISOString().split('T')[0]}" />
+                            </div>                            
+                            <div class="edit-field">
+                                <label>📚 読書状況</label>
+                                <select class="edit-read-status" data-asin="${book.asin}">
+                                    <option value="UNREAD" ${book.readStatus === 'UNREAD' ? 'selected' : ''}>未読</option>
+                                    <option value="READING" ${book.readStatus === 'READING' ? 'selected' : ''}>読み途中</option>
+                                    <option value="FINISHED" ${book.readStatus === 'FINISHED' ? 'selected' : ''}>読了</option>
+                                </select>
                             </div>
+
                             <button class="btn btn-small save-book-changes" data-asin="${book.asin}">💾 変更を保存</button>
                         </div>
                         <p>購入日: ${new Date(book.acquiredTime).toLocaleDateString('ja-JP')}</p>
-
-                        <div class="edit-field">
-                            <label>📚 読書状況</label>
-                            <select class="edit-read-status" data-asin="${book.asin}">
-                                <option value="UNREAD" ${book.readStatus === 'UNREAD' ? 'selected' : ''}>未読</option>
-                                <option value="READING" ${book.readStatus === 'READING' ? 'selected' : ''}>読み途中</option>
-                                <option value="FINISHED" ${book.readStatus === 'FINISHED' ? 'selected' : ''}>読了</option>
-                            <!-- 必要に応じて他のステータスも追加 -->
-                            </select>
-                        </div>
 
                         <div class="book-actions">
                             <a class="amazon-link" href="${amazonUrl}" target="_blank" rel="noopener">
