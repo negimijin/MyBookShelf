@@ -711,7 +711,16 @@ class VirtualBookshelf {
                         </div>
                         <p>購入日: ${new Date(book.acquiredTime).toLocaleDateString('ja-JP')}</p>
 
-                        
+                        <div class="edit-field">
+                            <label>📚 読書状況</label>
+                            <select class="edit-read-status" data-asin="${book.asin}">
+                                <option value="UNREAD" ${book.readStatus === 'UNREAD' ? 'selected' : ''}>未読</option>
+                                <option value="READING" ${book.readStatus === 'READING' ? 'selected' : ''}>読み途中</option>
+                                <option value="FINISHED" ${book.readStatus === 'FINISHED' ? 'selected' : ''}>読了</option>
+                            <!-- 必要に応じて他のステータスも追加 -->
+                            </select>
+                        </div>
+
                         <div class="book-actions">
                             <a class="amazon-link" href="${amazonUrl}" target="_blank" rel="noopener">
                                 📚 Amazonで見る
@@ -1496,10 +1505,12 @@ class VirtualBookshelf {
         const titleInput = document.querySelector(`.edit-title[data-asin="${asin}"]`);
         const authorsInput = document.querySelector(`.edit-authors[data-asin="${asin}"]`);
         const acquiredTimeInput = document.querySelector(`.edit-acquired-time[data-asin="${asin}"]`);
-        
+        const readStatusInput = document.querySelector(`.edit-read-status[data-asin="${asin}"]`);
+
         const newTitle = titleInput.value.trim();
         const newAuthors = authorsInput.value.trim();
         const newAcquiredTime = acquiredTimeInput.value;
+        const newReadStatus = readStatusInput ? readStatusInput.value : 'UNREAD';
         
         if (!newTitle) {
             alert('📖 タイトルは必須です');
