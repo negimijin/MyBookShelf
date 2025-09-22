@@ -1519,7 +1519,8 @@ class VirtualBookshelf {
         try {
             const updateData = {
                 title: newTitle,
-                authors: newAuthors || '著者未設定'
+                authors: newAuthors || '著者未設定',
+                readStatus: newReadStatus
             };
             
             // 購入日が変更されている場合は更新
