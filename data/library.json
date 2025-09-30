@@ -1,5 +1,5 @@
 {
-  "exportDate": "2025-09-21T11:50:02.719Z",
+  "exportDate": "2025-09-30T00:05:51.834Z",
   "books": {
     "1862056919": {
       "title": "The Phantom Of The Opera Companion",
@@ -136,7 +136,7 @@
     "B0FNW6L9R5": {
       "title": "アルスラーン戦記（２３） (週刊少年マガジンコミックス)",
       "authors": "荒川弘, 田中芳樹",
-      "acquiredTime": 1757344188432,
+      "acquiredTime": 1757289600000,
       "readStatus": "READ",
       "productImage": "https://m.media-amazon.com/images/I/517LoAiFELL.jpg",
       "source": "kindle_import",
@@ -356,7 +356,7 @@
     "B0FHYR6VMF": {
       "title": "ベルセルク 43 (ヤングアニマルコミックス)",
       "authors": "三浦建太郎, スタジオ我画, 森恒二（監修）",
-      "acquiredTime": 1756393783249,
+      "acquiredTime": 1756339200000,
       "readStatus": "READ",
       "productImage": "https://m.media-amazon.com/images/I/51pBjwZnOrL.jpg",
       "source": "kindle_import",
@@ -428,7 +428,7 @@
       "source": "kindle_import",
       "addedDate": 1757980267555,
       "memo": "",
-      "rating": 0
+      "rating": 5
     },
     "B08BHZ4HT3": {
       "title": "データ視覚化のデザイン",
@@ -1918,13 +1918,13 @@
     "B0CS3M574M": {
       "title": "世界は経営でできている (講談社現代新書)",
       "authors": "岩尾俊兵",
-      "acquiredTime": 1705589042614,
-      "readStatus": "UNKNOWN",
+      "acquiredTime": 1705536000000,
+      "readStatus": "FINISHED",
       "productImage": "https://m.media-amazon.com/images/I/418Fvrhk74L.jpg",
       "source": "kindle_import",
       "addedDate": 1757980267555,
       "memo": "",
-      "rating": 0
+      "rating": 5
     },
     "B09MVW2NVY": {
       "title": "第五集: 「認知シャッフル睡眠法」他 川尻こだまのただれた生活",
@@ -2980,7 +2980,7 @@
       "source": "kindle_import",
       "addedDate": 1757980267556,
       "memo": "",
-      "rating": 0
+      "rating": 5
     },
     "B0925VYW1R": {
       "title": "第一集: 「いなげやの話 他」 川尻こだまのただれた生活",
@@ -3426,7 +3426,7 @@
       "title": "企業変革のジレンマ 「構造的無能化」はなぜ起きるのか",
       "authors": "宇田川元一",
       "acquiredTime": 1717718400000,
-      "readStatus": "UNKNOWN",
+      "readStatus": "READING",
       "productImage": "https://images-na.ssl-images-amazon.com/images/P/4296115928.01.L.jpg",
       "source": "manual_add",
       "addedDate": 1758117019864,
@@ -3833,7 +3833,7 @@
       "title": "センスメーキング イン オーガニゼーションズ",
       "authors": "カール・E. ワイク",
       "acquiredTime": 1642204800000,
-      "readStatus": "UNKNOWN",
+      "readStatus": "READING",
       "productImage": "https://images-na.ssl-images-amazon.com/images/P/4830943807.01.L.jpg",
       "source": "manual_add",
       "addedDate": 1758199996788,
@@ -3910,7 +3910,7 @@
       "title": "他者と働く──「わかりあえなさ」から始める組織論",
       "authors": "宇田川 元一",
       "acquiredTime": 1568937600000,
-      "readStatus": "UNKNOWN",
+      "readStatus": "FINISHED",
       "productImage": "https://images-na.ssl-images-amazon.com/images/P/4910063013.01.L.jpg",
       "source": "manual_add",
       "addedDate": 1758201410373,
@@ -4719,6 +4719,17 @@
       "addedDate": 1758455176453,
       "memo": "PDFに自炊済み",
       "rating": 0
+    },
+    "B013SIRVVG": {
+      "title": "プレゼン資料のための正しいデザイン　ビジネスを成功に導くレイアウトの技術",
+      "authors": "鈴木 春人",
+      "acquiredTime": 1538179200000,
+      "readStatus": "FINISHED",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B013SIRVVG.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1759149264675,
+      "memo": "紙で所持。見すぎてボロボロになってる",
+      "rating": 0
     }
   },
   "bookshelves": [
@@ -4983,7 +4994,8 @@
         "4478420408",
         "4478460019",
         "B09KLF9G2F",
-        "B07MSDRMM6"
+        "B07MSDRMM6",
+        "B09HSDFGBV"
       ],
       "createdAt": "2025-09-16T17:03:42.085Z"
     },
@@ -5072,7 +5084,8 @@
         "B0CXSB72M5",
         "4479796975",
         "B08CTSGMLC",
-        "4295012742"
+        "4295012742",
+        "B013SIRVVG"
       ],
       "createdAt": "2025-09-17T11:29:40.180Z"
     },
@@ -5213,7 +5226,9 @@
         "4830942533",
         "4910063013",
         "4799323563",
-        "4260024035"
+        "4260024035",
+        "4296115928",
+        "B08V1LZ2QH"
       ],
       "createdAt": "2025-09-18T12:40:06.080Z"
     }
@@ -5229,8 +5244,8 @@
   },
   "bookOrder": {},
   "stats": {
-    "totalBooks": 429,
-    "notesCount": 151
+    "totalBooks": 430,
+    "notesCount": 155
   },
   "version": "2.0"
 }
