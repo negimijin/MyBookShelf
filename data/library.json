@@ -1,5 +1,5 @@
 {
-  "exportDate": "2025-09-30T00:05:51.834Z",
+  "exportDate": "2025-10-04T12:25:59.413Z",
   "books": {
     "1862056919": {
       "title": "The Phantom Of The Opera Companion",
@@ -3701,7 +3701,7 @@
       "title": "チーム・ジャーニー 逆境を越える、変化に強いチームをつくりあげるまで",
       "authors": "市谷 聡啓",
       "acquiredTime": 1581984000000,
-      "readStatus": "UNKNOWN",
+      "readStatus": "FINISHED",
       "productImage": "https://images-na.ssl-images-amazon.com/images/P/B0836CF21D.01.L.jpg",
       "source": "manual_add",
       "addedDate": 1758197039305,
@@ -4140,8 +4140,8 @@
     "4814400918": {
       "title": "Tidy First? ―個人で実践する経験主義的ソフトウェア設計",
       "authors": "Kent Beck",
-      "acquiredTime": 1758376683263,
-      "readStatus": "UNKNOWN",
+      "acquiredTime": 1740009600000,
+      "readStatus": "UNREAD",
       "productImage": "https://images-na.ssl-images-amazon.com/images/P/4814400918.01.L.jpg",
       "source": "manual_add",
       "addedDate": 1758376683263,
@@ -4239,8 +4239,8 @@
     "4479796975": {
       "title": "伝わるプレゼンの法則100",
       "authors": "吉藤 智広, 渋谷 雄大",
-      "acquiredTime": 1758378290145,
-      "readStatus": "UNKNOWN",
+      "acquiredTime": 1529452800000,
+      "readStatus": "FINISHED",
       "productImage": "https://images-na.ssl-images-amazon.com/images/P/4479796975.01.L.jpg",
       "source": "manual_add",
       "addedDate": 1758378290145,
@@ -4361,7 +4361,7 @@
       "title": "ザッソウ　結果を出すチームの習慣",
       "authors": "倉貫 義人",
       "acquiredTime": 1566259200000,
-      "readStatus": "UNKNOWN",
+      "readStatus": "FINISHED",
       "productImage": "https://images-na.ssl-images-amazon.com/images/P/B07WWK5KQK.01.L.jpg",
       "source": "manual_add",
       "addedDate": 1758381200497,
@@ -4680,7 +4680,7 @@
       "title": "メタフィジカルデザイン -つくりながら哲学する-",
       "authors": "瀬尾 浩二郎",
       "acquiredTime": 1732147200000,
-      "readStatus": "UNKNOWN",
+      "readStatus": "READING",
       "productImage": "https://images-na.ssl-images-amazon.com/images/P/4865284214.01.L.jpg",
       "source": "manual_add",
       "addedDate": 1758453918931,
@@ -4729,6 +4729,28 @@
       "source": "manual_add",
       "addedDate": 1759149264675,
       "memo": "紙で所持。見すぎてボロボロになってる",
+      "rating": 0
+    },
+    "B07QBYYT1M": {
+      "title": "運用☆ちゃんと学ぶ システム運用の基本",
+      "authors": "沢渡あまね",
+      "acquiredTime": 1555027200000,
+      "readStatus": "FINISHED",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B07QBYYT1M.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1759579955733,
+      "memo": "",
+      "rating": 5
+    },
+    "4860087925": {
+      "title": "あたりまえを疑え。 自己実現できる働き方のヒント",
+      "authors": "澤 円",
+      "acquiredTime": 1543881600000,
+      "readStatus": "UNREAD",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4860087925.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1759580558899,
+      "memo": "",
       "rating": 0
     }
   },
@@ -5231,6 +5253,24 @@
         "B08V1LZ2QH"
       ],
       "createdAt": "2025-09-18T12:40:06.080Z"
+    },
+    {
+      "id": "bookshelf_1759568753505",
+      "name": "サイン入り",
+      "emoji": "📚",
+      "description": "著者にサインいただきました",
+      "books": [
+        "4041125685",
+        "B0836CF21D",
+        "4865284214",
+        "4046064714",
+        "B07WWK5KQK",
+        "4764905906",
+        "B07QBYYT1M",
+        "4860087925",
+        "4479796975"
+      ],
+      "createdAt": "2025-10-04T09:05:53.505Z"
     }
   ],
   "settings": {
@@ -5244,8 +5284,8 @@
   },
   "bookOrder": {},
   "stats": {
-    "totalBooks": 430,
-    "notesCount": 155
+    "totalBooks": 432,
+    "notesCount": 156
   },
   "version": "2.0"
 }
